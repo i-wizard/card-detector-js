@@ -1,0 +1,19 @@
+{
+  "name": "card-detector-js",
+  "version": "1.0.0",
+  "description": "This package is was designed to help developers detect Credit/Debit card type🏦.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name":"David Njoagwuani",
+    "email":"njoagwuanidavid@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": ["credit card", "debit card", "card type", "visa", "mastercard", "fintech", "online payment", "javscript", "react-native"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/i-wizard/card-detector-js.git"
+  }
+}
